@@ -18,6 +18,8 @@ permalink: /publication/
 
 ### Conference Papers
 
+- The-Anh Nguyen, Thao-Nguyen Tran-Ha, `Ngo-Doanh Nguyen`, Khanh N. Dang, Duy-Hieu Bui, and Xuan-Tu Tran, "An Efficient Hardware Compression Technique for Low-Power Spiking Neural Networks," in 2025 24th International Symposium on Communications and Information Technologies (ISCIT), 16-18 October 2025, Hanoi, Vietnam.
+
 - `Nguyen, Ngo Doanh` and Bui, Duy Hieu and Tran, Xuan Tu and Orazio, Aiello, "0.3V Specification-oriented Inverter-based OTAs with NAND-and-NOR CMFB using Different Standard Cells' Strength," in 21st IEEE Asia Pacific Conference on Circuits and Systems (APCCAS), 12-15 October 2025, Busan, Korea.
 
 - Riccardo, Della Sala and Orazio, Aiello and `Nguyen, Ngo Doanh` and Bui, Duy Hieu and Tran, Xuan Tu and Giuseppe, Scotti, "Exploring 0.3V Inverter Based OTA Designs with NOR3-Based Common Mode Feedback," in 2025 IEEE 23rd Interregional NEWCAS Conference, June 22-25, 2025, Paris, France.
