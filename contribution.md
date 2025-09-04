@@ -6,6 +6,8 @@ permalink: /contribution/
 
 ### Society Activities
 
+- `TPC Member` in the 2025 24th International Symposium on Communications and Information Technologies (ISCIT).XS
+
 - `TPC Member` in the 2025 IEEE 10th International Conference on Integrated Circuits, Design and Verification (ICDV).
 
 - `Volunteer Member` in the 2024 IEEE 17th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC).
