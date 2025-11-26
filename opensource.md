@@ -34,7 +34,7 @@ This is a cool script that I found out on Github. I did have a trouble with the 
 
 This is a good opensource that collects a lot of frameworks for SNN.
 
-### Analog-to-Digital Survey [[Link](https://github.com/bmurmann/ADC-survey)]
+### Analog-to-Digital Converter Survey [[Link](https://github.com/bmurmann/ADC-survey)]
 
 This is well-organized data collection from the ISSCC & VLSI Circuit Symposium (1997-Now). Big thanks to Prof. Boris Murmann.
 
