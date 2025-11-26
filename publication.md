@@ -17,6 +17,7 @@ permalink: /publication/
 - `Nguyen, Ngo Doanh` and Tran, Xuan Tu and  A. B. Abdallah and Dang, Nam Khanh, "An In-Situ Dynamic Quantization With 3D Stacking Synaptic Memory for Power-Aware Neuromorphic Architecture," in IEEE Access, vol. 11, pp. 82377-82389, 2023, doi: 10.1109/ACCESS.2023.3301560.
 
 ### Conference Papers
+- `Nguyen, Ngo Doanh` and Bui, Duy Hieu and Tran, Xuan Tu and Orazio, Aiello, "Comparison between Gate-driven CMFBs on Inverter-based OTAs in Multiple Specifications", in 2025 5th IEEE International Circuit and System Symposium (ICSyS), 24-26 November 2025, Everly Putrajaya, Malaysia.
 
 - The-Anh Nguyen, Thao-Nguyen Tran-Ha, `Ngo-Doanh Nguyen`, Khanh N. Dang, Duy-Hieu Bui, and Xuan-Tu Tran, "An Efficient Hardware Compression Technique for Low-Power Spiking Neural Networks," in 2025 24th International Symposium on Communications and Information Technologies (ISCIT), 16-18 October 2025, Hanoi, Vietnam.
 
@@ -42,12 +43,10 @@ permalink: /publication/
 
 - Dang, Nam Khanh and Ben Abdallah, Abderazek and `Nguyen, Ngo Doanh`, "Neural Network Processor", Special Application 2024-047372, Japan patent, March 2024, Japan (Pending).
 
-- Tran, Xuan Tu and Bui, Duy Hieu and `Nguyen, Ngo Doanh`, "Methodology of Hardware/Software Co-processing of the Authenticated Encryption with Associated Data algorithm, AES-GCM, for energy-efficiency IoT devices", Patent Application, 1-2021-05898, September 2021, Vietnam (Pending).
+- Tran, Xuan Tu and Bui, Duy Hieu and `Nguyen, Ngo Doanh`, "Methodology of Hardware/Software Co-processing of the Authenticated Encryption with Associated Data algorithm, AES-GCM, for energy-efficiency IoT devices", Vietnamese Patent, 1-2021-05898, 2025, Vietnam.
 	
-- Tran, Xuan Tu and Bui, Duy Hieu and `Nguyen, Ngo Doanh`, "Methodology of Hardware/Software Co-processing of the Authenticated Encryption with Associated Data algorithm, AES-CCM, for energy-efficiency IoT devices", Patent Application, 1-2021-01093, March 2021, Vietnam (Pending).
-	
-- Tran, Xuan Tu and Bui, Duy Hieu and `Nguyen, Ngo Doanh`, "Image processing for human detection using Histogram of Gradient and Support Vector Machine in parallel to accelerate performance", Patent Application, 1-2019-07347, December 2019, Vietnam (Pending).
+- Tran, Xuan Tu and Bui, Duy Hieu and `Nguyen, Ngo Doanh`, "Methodology of Hardware/Software Co-processing of the Authenticated Encryption with Associated Data algorithm, AES-CCM, for energy-efficiency IoT devices", Vietnamese Patent, 1-2021-01093, 2025, Vietnam.
 
 ### Book Chapters
 
-- `Nguyen, Ngo Doanh` and  Dang, Nam Khanh and Ben Abdallah, Abderazek and A. B. Ahmed, "Chapter 4:  Low-Power 3-D IC-Based Spiking Neural Network", in book "Energy-Efficient Devices and Circuits for Neuromorphic Computing", Elsevier, 2025, 978-0-443-29981-0, B978-0-443-29981-0.00007-0. (Publication Date: 6 Oct, 2025)
+- `Nguyen, Ngo Doanh` and  Dang, Nam Khanh and Ben Abdallah, Abderazek and A. B. Ahmed, "Chapter 9:  Low-Power 3-D IC-Based Spiking Neural Network", in "Energy-Efficient Devices and Circuits for Neuromorphic Computing", Elsevier, 2025, 978-0-443-29981-0, B978-0-443-29981-0.00007-0, doi: 10.1016/B978-0-443-29981-0.00007-0.
