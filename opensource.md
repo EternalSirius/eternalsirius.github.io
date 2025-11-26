@@ -34,6 +34,14 @@ This is a cool script that I found out on Github. I did have a trouble with the 
 
 This is a good opensource that collects a lot of frameworks for SNN.
 
+### Analog-to-Digital Survey [[Link](https://github.com/bmurmann/ADC-survey)]
+
+This is well-organized data collection from the ISSCC & VLSI Circuit Symposium (1997-Now). Big thanks to Prof. Boris Murmann.
+
+### Analog Mixed-Signal Design Study Roadmap [[Link](https://github.com/muhammadaldacher)]
+
+A cool collection for Analog Mixed-Signal study roadmap from Muhammad Aldacher.
+
 ### Powerlevel10k [[Link](https://github.com/romkatv/powerlevel10k)]
 
 A customized theme for Zsh. 
