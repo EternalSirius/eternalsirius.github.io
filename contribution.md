@@ -10,23 +10,23 @@ permalink: /contribution/
 
 - `TPC Member` in the 2025 IEEE 10th International Conference on Integrated Circuits, Design and Verification (ICDV).
 
-- `Volunteer Member` in the 2024 IEEE 17th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC).
+- `Local Member` in the 2024 IEEE 17th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC).
 
 - `TPC Member` in the 2024 IEEE 9th International Conference on Integrated Circuits, Design and Verification (ICDV).
 
 - `TPC Member` in the 2023 IEEE 16th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC).
 
-- `Volunteer Member` in the 2023 4th International Artificial Intelligence and Blockchain Conference (AIBC).
+- `Local Member` in the 2023 4th International Artificial Intelligence and Blockchain Conference (AIBC).
 
 - `TPC Member` in the 2022 IEEE 15th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC).
 
-- `Volunteer Member` in the 2022 International Conference on IC Design and Technology (ICICDT).    
+- `Local Member` in the 2022 International Conference on IC Design and Technology (ICICDT).    
 
 - `Member` of IEEE SSCS Vietnam Chapter in 2022.
 
 - `TPC Member` in the 2021 IEEE 14th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC).
 
-- `Volunteer Member` in the 2020 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS).
+- `Local Member` in the 2020 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS).
 
 - `Member` of IEEE CASS Vietnam Chapter in 2020.
 
