@@ -5,6 +5,9 @@ permalink: /about/
 ---
 
 ### Biography
+
+>> Because of my laziness, so my introduction is copied from my biography... Forgive me.
+
 <style>
   .profile-block {
     margin: 20px;
@@ -61,3 +64,9 @@ permalink: /about/
 - `1st Prize`, Samsung Mini-project Contest (AY2017)
 
 - `3rd Prize`, Student Research Competition (AY2017)
+
+### Thinking
+
+This occurs to me when I looked at the INI-ETH's [website](https://ncs-group.pages.uzh.ch/lab-manual/). It also reminds me why I started this journey. Here is a direct quote from the working culture web-page of [Rieck Lab](https://www.helmholtz-munich.de/en/aih/research-groups/rieck-group)
+
+>> We are not interested in 'leader-board science' or 'chasing the state-of-the-art' in a table. That is not to say that we are not interested in producing relevant methods! Our overarching goal is to produce excellent science using methods whose performace we can explain and understand.
