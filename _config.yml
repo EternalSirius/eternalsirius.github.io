@@ -4,9 +4,9 @@ description: 朝顔に    わたる蝶よ    我が命。
 
 remote_theme: "jekyll/minima@1e8a445"
 
-# url: https://eternalsirius.github.io
-url: "https://www.e3computing.org"
-baseurl: "/~doanh"
+url: https://eternalsirius.github.io
+# url: "https://www.e3computing.org"
+# baseurl: "/~doanh"
 
 
 plugins:
