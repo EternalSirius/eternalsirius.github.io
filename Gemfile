@@ -1,16 +1,16 @@
 # Gemfile
 # frozen_string_literal: true
 source "https://rubygems.org"
-
+gemspec
 gem "kramdown-parser-gfm"
 gem "jekyll"
 gem "github-pages", group: :jekyll_plugins
 
 # Add these lines here
-group :jekyll_plugins do
-  gem "jekyll-feed"
-  gem "jekyll-seo-tag"
-end
+# group :jekyll_plugins do
+#   gem "jekyll-feed"
+#   gem "jekyll-seo-tag"
+# end
 # source "https://rubygems.org"
 # gemspec
 
