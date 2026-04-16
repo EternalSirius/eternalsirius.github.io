@@ -17,6 +17,8 @@ permalink: /publication/
 - `Nguyen, Ngo Doanh` and Tran, Xuan Tu and  A. B. Abdallah and Dang, Nam Khanh, "An In-Situ Dynamic Quantization With 3D Stacking Synaptic Memory for Power-Aware Neuromorphic Architecture," in IEEE Access, vol. 11, pp. 82377-82389, 2023, doi: 10.1109/ACCESS.2023.3301560.
 
 ### Conference Papers
+- Nguyen, The Anh and Tran Ha, Thao Nguyen and `Nguyen, Ngo Doanh` and Dang, Nam Khanh and Bui, Duy Hieu and Tran, Xuan Tu, "A Compact Hardware Compression Method for Energy-Saving Spiking Neural Networks", in The International Conference on Semiconductors (ICOS), January 5-7, Da Nang, Vietnam.
+
 - `Nguyen, Ngo Doanh` and Bui, Duy Hieu and Tran, Xuan Tu and Orazio, Aiello, "Comparison between Gate-driven CMFBs on Inverter-based OTAs in Multiple Specifications", in 2025 5th IEEE International Circuit and System Symposium (ICSyS), 24-26 November 2025, Everly Putrajaya, Malaysia.
 
 - The-Anh Nguyen, Thao-Nguyen Tran-Ha, `Ngo-Doanh Nguyen`, Khanh N. Dang, Duy-Hieu Bui, and Xuan-Tu Tran, "An Efficient Hardware Compression Technique for Low-Power Spiking Neural Networks," in 2025 24th International Symposium on Communications and Information Technologies (ISCIT), 16-18 October 2025, Hanoi, Vietnam.
@@ -41,7 +43,9 @@ permalink: /publication/
 
 ### Patents
 
-- Dang, Nam Khanh and Ben Abdallah, Abderazek and `Nguyen, Ngo Doanh`, "Neural Network Processor", Special Application 2024-047372, Japan patent, March 2024, Japan (Pending).
+- Tran, Xuan Tu and `Nguyen, Ngo Doanh` and Bui, Duy Hieu and Tran Ha, Thao Nguyen and Dang, Nam Khanh, "Methodology of spike computing utilizing the repetition of spike input in hidden layers for low-power applications", Vietnamese Patent Application, 1-2025-08894, December 2025, Vietnam (Filed).
+
+- Dang, Nam Khanh and Ben Abdallah, Abderazek and `Nguyen, Ngo Doanh`, "Neural Network Processor", Special Application 2024-047372, Japan patent, March 2024, Japan (Filed).
 
 - Tran, Xuan Tu and Bui, Duy Hieu and `Nguyen, Ngo Doanh`, "Methodology of Hardware/Software Co-processing of the Authenticated Encryption with Associated Data algorithm, AES-GCM, for energy-efficiency IoT devices", Vietnamese Patent, 1-2021-05898, 2025, Vietnam.
 	
