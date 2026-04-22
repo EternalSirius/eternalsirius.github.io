@@ -42,6 +42,10 @@ This is well-organized data collection from the ISSCC & VLSI Circuit Symposium (
 
 A cool collection for Analog Mixed-Signal study roadmap from Muhammad Aldacher.
 
+### MathNet [[Link](https://mathnet.mit.edu/index.html)]
+
+A global multimodel benchmark for mathematical reasoning and retrieval. A cool resource for mathematical problems and solutions.
+
 ### Powerlevel10k [[Link](https://github.com/romkatv/powerlevel10k)]
 
 A customized theme for Zsh. 
