@@ -17,6 +17,8 @@ permalink: /publication/
 - `Nguyen, Ngo Doanh` and Tran, Xuan Tu and  A. B. Abdallah and Dang, Nam Khanh, "An In-Situ Dynamic Quantization With 3D Stacking Synaptic Memory for Power-Aware Neuromorphic Architecture," in IEEE Access, vol. 11, pp. 82377-82389, 2023, doi: 10.1109/ACCESS.2023.3301560.
 
 ### Conference Papers
+- Kobayashi, Ryoji and `Nguyen, Ngo Doanh` and Dang, Nam Khanh, "SEAL: A Fault-Tolerant Neuron Model for Spiking Neural Networks on Unreliable DRAM Systems", in IEEE Computer Society Annual Symposium on VLSI (ISVLSI), July 7-10, 2026, ITC Sonar, Kolkata, India.
+
 - Nguyen, The Anh and Tran Ha, Thao Nguyen and `Nguyen, Ngo Doanh` and Dang, Nam Khanh and Bui, Duy Hieu and Tran, Xuan Tu, "A Compact Hardware Compression Method for Energy-Saving Spiking Neural Networks", in The International Conference on Semiconductors (ICOS), 5-7 January 2026, Da Nang, Vietnam.
 
 - `Nguyen, Ngo Doanh` and Bui, Duy Hieu and Tran, Xuan Tu and Orazio, Aiello, "Comparison between Gate-driven CMFBs on Inverter-based OTAs in Multiple Specifications", in 2025 5th IEEE International Circuit and System Symposium (ICSyS), 24-26 November 2025, Everly Putrajaya, Malaysia.
